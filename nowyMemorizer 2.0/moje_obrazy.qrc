@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/tla">
+        <file>img/nowy/tlo.jpg</file>
+        <file>img/nowy/Book.jpg</file>
+        <file>img/nowy/dodaj.jpg</file>
+        <file>img/nowy/door.jpg</file>
+        <file>img/nowy/brain2.jpg</file>
+        <file>img/nowy/library.jpg</file>
+        <file>img/nowy/ksiazka.jpg</file>
+        <file>img/nowy/youtbe.jpg</file>
+    </qresource>
+</RCC>
